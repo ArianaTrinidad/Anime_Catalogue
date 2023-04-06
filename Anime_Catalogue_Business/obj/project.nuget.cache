@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NFo1NZFmYyh1FcyHKpr22EG+9W3D2Jf9ZGRivKPPVL8lBMBJ5E0+H00ZF0kTQM5lwSeboFzkf3DGLjE1fzP9rA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Roxana\\source\\repos\\Anime_Catalogue\\Anime_Catalogue_Business\\Anime_Catalogue_Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Roxana\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Roxana\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
